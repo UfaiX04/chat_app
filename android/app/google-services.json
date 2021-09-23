@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376075666126",
+    "project_id": "diviniapp",
+    "storage_bucket": "diviniapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376075666126:android:1a797476516520a8dfc69f",
+        "android_client_info": {
+          "package_name": "com.JustinJanko.Divini_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376075666126-va5g6jag2oiouimm4gq1rciujfang4n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2tZmdS7RDd9jnJlh_7g96yc7-Up8VHe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376075666126-va5g6jag2oiouimm4gq1rciujfang4n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
